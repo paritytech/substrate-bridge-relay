@@ -8,6 +8,8 @@ For more details, see the [design document](doc/design.md).
 
 This is a not-in-progress prototype.
 
+**The implementation efforts continue in [Parity Bridges](https://github.com/paritytech/parity-bridges-common) repository.**
+
 ## Running in development
 
 Run two development Substrate chains:
